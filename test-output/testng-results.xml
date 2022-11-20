@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="24" passed="24" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-20T12:20:45 IST" name="ActiTIME Test Automation Test Suite" finished-at="2022-11-20T12:32:08 IST" duration-ms="682548">
+    <groups>
+    </groups>
+    <test started-at="2022-11-20T12:20:45 IST" name="Free CRM App Test Cases" finished-at="2022-11-20T12:32:08 IST" duration-ms="682548">
+      <class name="com.hrm.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@54a67a45]" started-at="2022-11-20T12:20:45 IST" name="setUp" finished-at="2022-11-20T12:21:00 IST" duration-ms="14654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.hrm.qa.testcases.LoginPageTest@54a67a45]" started-at="2022-11-20T12:21:00 IST" name="loginPageTitleTest" finished-at="2022-11-20T12:21:00 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@54a67a45]" started-at="2022-11-20T12:21:00 IST" name="tearDown" finished-at="2022-11-20T12:21:00 IST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@54a67a45]" started-at="2022-11-20T12:21:00 IST" name="setUp" finished-at="2022-11-20T12:21:18 IST" duration-ms="17412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="actiTimeLogoTest()[pri:2, instance:com.hrm.qa.testcases.LoginPageTest@54a67a45]" started-at="2022-11-20T12:21:18 IST" name="actiTimeLogoTest" finished-at="2022-11-20T12:21:18 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actiTimeLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@54a67a45]" started-at="2022-11-20T12:21:18 IST" name="tearDown" finished-at="2022-11-20T12:21:18 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@54a67a45]" started-at="2022-11-20T12:21:18 IST" name="setUp" finished-at="2022-11-20T12:21:35 IST" duration-ms="17273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:3, instance:com.hrm.qa.testcases.LoginPageTest@54a67a45]" started-at="2022-11-20T12:21:35 IST" name="loginTest" finished-at="2022-11-20T12:21:35 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.LoginPageTest@54a67a45]" started-at="2022-11-20T12:21:35 IST" name="tearDown" finished-at="2022-11-20T12:21:36 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.qa.testcases.LoginPageTest -->
+      <class name="com.hrm.qa.testcases.EmployeePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.EmployeePageTest@63fdab07]" started-at="2022-11-20T12:28:34 IST" name="setUp" finished-at="2022-11-20T12:29:04 IST" duration-ms="29592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyPgTitleTest()[pri:1, instance:com.hrm.qa.testcases.EmployeePageTest@63fdab07]" started-at="2022-11-20T12:29:04 IST" name="verifyPgTitleTest" finished-at="2022-11-20T12:29:04 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPgTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.EmployeePageTest@63fdab07]" started-at="2022-11-20T12:29:04 IST" name="tearDown" finished-at="2022-11-20T12:29:04 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.EmployeePageTest@63fdab07]" started-at="2022-11-20T12:29:04 IST" name="setUp" finished-at="2022-11-20T12:29:35 IST" duration-ms="31174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickEmployeeTest()[pri:2, instance:com.hrm.qa.testcases.EmployeePageTest@63fdab07]" started-at="2022-11-20T12:29:35 IST" name="clickEmployeeTest" finished-at="2022-11-20T12:29:35 IST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickEmployeeTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.EmployeePageTest@63fdab07]" started-at="2022-11-20T12:29:35 IST" name="tearDown" finished-at="2022-11-20T12:29:36 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.qa.testcases.EmployeePageTest -->
+      <class name="com.hrm.qa.testcases.ReportPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.ReportPageTest@5553d0f5]" started-at="2022-11-20T12:30:03 IST" name="setUp" finished-at="2022-11-20T12:30:35 IST" duration-ms="31906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatePgTitleTest()[pri:1, instance:com.hrm.qa.testcases.ReportPageTest@5553d0f5]" started-at="2022-11-20T12:30:35 IST" name="validatePgTitleTest" finished-at="2022-11-20T12:30:35 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePgTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.ReportPageTest@5553d0f5]" started-at="2022-11-20T12:30:35 IST" name="tearDown" finished-at="2022-11-20T12:30:35 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.ReportPageTest@5553d0f5]" started-at="2022-11-20T12:30:35 IST" name="setUp" finished-at="2022-11-20T12:31:16 IST" duration-ms="40773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dwnldCSVTest()[pri:2, instance:com.hrm.qa.testcases.ReportPageTest@5553d0f5]" started-at="2022-11-20T12:31:16 IST" name="dwnldCSVTest" finished-at="2022-11-20T12:31:21 IST" duration-ms="5140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dwnldCSVTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.ReportPageTest@5553d0f5]" started-at="2022-11-20T12:31:21 IST" name="tearDown" finished-at="2022-11-20T12:31:21 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.ReportPageTest@5553d0f5]" started-at="2022-11-20T12:31:21 IST" name="setUp" finished-at="2022-11-20T12:32:03 IST" duration-ms="41351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dwnldPDFTest()[pri:3, instance:com.hrm.qa.testcases.ReportPageTest@5553d0f5]" started-at="2022-11-20T12:32:03 IST" name="dwnldPDFTest" finished-at="2022-11-20T12:32:08 IST" duration-ms="5256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dwnldPDFTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.ReportPageTest@5553d0f5]" started-at="2022-11-20T12:32:08 IST" name="tearDown" finished-at="2022-11-20T12:32:08 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.qa.testcases.ReportPageTest -->
+      <class name="com.hrm.qa.testcases.ActiPlanPageText">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.ActiPlanPageText@5b529706]" started-at="2022-11-20T12:25:56 IST" name="setUp" finished-at="2022-11-20T12:26:28 IST" duration-ms="32103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateActiTimeLogoTest()[pri:1, instance:com.hrm.qa.testcases.ActiPlanPageText@5b529706]" started-at="2022-11-20T12:26:28 IST" name="validateActiTimeLogoTest" finished-at="2022-11-20T12:26:28 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateActiTimeLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.ActiPlanPageText@5b529706]" started-at="2022-11-20T12:26:28 IST" name="tearDown" finished-at="2022-11-20T12:26:28 IST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.ActiPlanPageText@5b529706]" started-at="2022-11-20T12:26:28 IST" name="setUp" finished-at="2022-11-20T12:26:57 IST" duration-ms="28971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatePgTitleTest()[pri:2, instance:com.hrm.qa.testcases.ActiPlanPageText@5b529706]" started-at="2022-11-20T12:26:57 IST" name="validatePgTitleTest" finished-at="2022-11-20T12:26:57 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePgTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.ActiPlanPageText@5b529706]" started-at="2022-11-20T12:26:57 IST" name="tearDown" finished-at="2022-11-20T12:26:57 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.ActiPlanPageText@5b529706]" started-at="2022-11-20T12:26:57 IST" name="setUp" finished-at="2022-11-20T12:27:25 IST" duration-ms="28052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyReviewLeaveLinkTest()[pri:3, instance:com.hrm.qa.testcases.ActiPlanPageText@5b529706]" started-at="2022-11-20T12:27:25 IST" name="verifyReviewLeaveLinkTest" finished-at="2022-11-20T12:27:26 IST" duration-ms="825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReviewLeaveLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.ActiPlanPageText@5b529706]" started-at="2022-11-20T12:27:26 IST" name="tearDown" finished-at="2022-11-20T12:27:26 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.ActiPlanPageText@5b529706]" started-at="2022-11-20T12:27:26 IST" name="setUp" finished-at="2022-11-20T12:27:53 IST" duration-ms="26216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyReportLinkTest()[pri:4, instance:com.hrm.qa.testcases.ActiPlanPageText@5b529706]" started-at="2022-11-20T12:27:53 IST" name="verifyReportLinkTest" finished-at="2022-11-20T12:27:59 IST" duration-ms="6172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReportLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.ActiPlanPageText@5b529706]" started-at="2022-11-20T12:27:59 IST" name="tearDown" finished-at="2022-11-20T12:27:59 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.ActiPlanPageText@5b529706]" started-at="2022-11-20T12:27:59 IST" name="setUp" finished-at="2022-11-20T12:28:32 IST" duration-ms="33324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEmployeeListLinkTest()[pri:5, instance:com.hrm.qa.testcases.ActiPlanPageText@5b529706]" started-at="2022-11-20T12:28:32 IST" name="verifyEmployeeListLinkTest" finished-at="2022-11-20T12:28:34 IST" duration-ms="2113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmployeeListLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.ActiPlanPageText@5b529706]" started-at="2022-11-20T12:28:34 IST" name="tearDown" finished-at="2022-11-20T12:28:34 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.qa.testcases.ActiPlanPageText -->
+      <class name="com.hrm.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.HomePageTest@736d6a5c]" started-at="2022-11-20T12:21:36 IST" name="setUp" finished-at="2022-11-20T12:22:03 IST" duration-ms="27861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="homePageLogoTest()[pri:1, instance:com.hrm.qa.testcases.HomePageTest@736d6a5c]" started-at="2022-11-20T12:22:03 IST" name="homePageLogoTest" finished-at="2022-11-20T12:22:11 IST" duration-ms="8097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.HomePageTest@736d6a5c]" started-at="2022-11-20T12:22:11 IST" name="tearDown" finished-at="2022-11-20T12:22:12 IST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.HomePageTest@736d6a5c]" started-at="2022-11-20T12:22:12 IST" name="setUp" finished-at="2022-11-20T12:22:24 IST" duration-ms="12569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLockTimeLinkTest()[pri:2, instance:com.hrm.qa.testcases.HomePageTest@736d6a5c]" started-at="2022-11-20T12:22:24 IST" name="verifyLockTimeLinkTest" finished-at="2022-11-20T12:22:30 IST" duration-ms="5909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLockTimeLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.HomePageTest@736d6a5c]" started-at="2022-11-20T12:22:30 IST" name="tearDown" finished-at="2022-11-20T12:22:30 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.HomePageTest@736d6a5c]" started-at="2022-11-20T12:22:30 IST" name="setUp" finished-at="2022-11-20T12:22:43 IST" duration-ms="13124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyviewTrackLinkTest()[pri:3, instance:com.hrm.qa.testcases.HomePageTest@736d6a5c]" started-at="2022-11-20T12:22:43 IST" name="verifyviewTrackLinkTest" finished-at="2022-11-20T12:22:52 IST" duration-ms="8677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyviewTrackLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.HomePageTest@736d6a5c]" started-at="2022-11-20T12:22:52 IST" name="tearDown" finished-at="2022-11-20T12:22:52 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.HomePageTest@736d6a5c]" started-at="2022-11-20T12:22:52 IST" name="setUp" finished-at="2022-11-20T12:23:05 IST" duration-ms="13077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyapproveLinkTest()[pri:4, instance:com.hrm.qa.testcases.HomePageTest@736d6a5c]" started-at="2022-11-20T12:23:05 IST" name="verifyapproveLinkTest" finished-at="2022-11-20T12:23:12 IST" duration-ms="6658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyapproveLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.HomePageTest@736d6a5c]" started-at="2022-11-20T12:23:12 IST" name="tearDown" finished-at="2022-11-20T12:23:12 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.HomePageTest@736d6a5c]" started-at="2022-11-20T12:23:12 IST" name="setUp" finished-at="2022-11-20T12:23:31 IST" duration-ms="18834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyactiPlanLinkTest()[pri:5, instance:com.hrm.qa.testcases.HomePageTest@736d6a5c]" started-at="2022-11-20T12:23:31 IST" name="verifyactiPlanLinkTest" finished-at="2022-11-20T12:23:58 IST" duration-ms="27070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyactiPlanLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.HomePageTest@736d6a5c]" started-at="2022-11-20T12:23:58 IST" name="tearDown" finished-at="2022-11-20T12:23:58 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.qa.testcases.HomePageTest -->
+      <class name="com.hrm.qa.testcases.ReviewLeavePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.ReviewLeavePageTest@7b5a12ae]" started-at="2022-11-20T12:29:36 IST" name="setUp" finished-at="2022-11-20T12:30:03 IST" duration-ms="27102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatePgTitleTest()[pri:0, instance:com.hrm.qa.testcases.ReviewLeavePageTest@7b5a12ae]" started-at="2022-11-20T12:30:03 IST" name="validatePgTitleTest" finished-at="2022-11-20T12:30:03 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePgTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.ReviewLeavePageTest@7b5a12ae]" started-at="2022-11-20T12:30:03 IST" name="tearDown" finished-at="2022-11-20T12:30:03 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.qa.testcases.ReviewLeavePageTest -->
+      <class name="com.hrm.qa.testcases.ApproveTabTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.ApproveTabTest@2371aaca]" started-at="2022-11-20T12:23:58 IST" name="setUp" finished-at="2022-11-20T12:24:24 IST" duration-ms="25391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyPgTitleTest()[pri:1, instance:com.hrm.qa.testcases.ApproveTabTest@2371aaca]" started-at="2022-11-20T12:24:24 IST" name="verifyPgTitleTest" finished-at="2022-11-20T12:24:24 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPgTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.ApproveTabTest@2371aaca]" started-at="2022-11-20T12:24:24 IST" name="tearDown" finished-at="2022-11-20T12:24:24 IST" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.ApproveTabTest@2371aaca]" started-at="2022-11-20T12:24:24 IST" name="setUp" finished-at="2022-11-20T12:24:48 IST" duration-ms="24717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectApprovedTest()[pri:2, instance:com.hrm.qa.testcases.ApproveTabTest@2371aaca]" started-at="2022-11-20T12:24:48 IST" name="selectApprovedTest" finished-at="2022-11-20T12:24:49 IST" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectApprovedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.ApproveTabTest@2371aaca]" started-at="2022-11-20T12:24:49 IST" name="tearDown" finished-at="2022-11-20T12:24:49 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.ApproveTabTest@2371aaca]" started-at="2022-11-20T12:24:49 IST" name="setUp" finished-at="2022-11-20T12:25:14 IST" duration-ms="25119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectRejectedTest()[pri:3, instance:com.hrm.qa.testcases.ApproveTabTest@2371aaca]" started-at="2022-11-20T12:25:14 IST" name="selectRejectedTest" finished-at="2022-11-20T12:25:15 IST" duration-ms="640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectRejectedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.ApproveTabTest@2371aaca]" started-at="2022-11-20T12:25:15 IST" name="tearDown" finished-at="2022-11-20T12:25:15 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.ApproveTabTest@2371aaca]" started-at="2022-11-20T12:25:15 IST" name="setUp" finished-at="2022-11-20T12:25:36 IST" duration-ms="20329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="confirmApprovalTest()[pri:4, instance:com.hrm.qa.testcases.ApproveTabTest@2371aaca]" started-at="2022-11-20T12:25:36 IST" name="confirmApprovalTest" finished-at="2022-11-20T12:25:36 IST" duration-ms="714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmApprovalTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.ApproveTabTest@2371aaca]" started-at="2022-11-20T12:25:36 IST" name="tearDown" finished-at="2022-11-20T12:25:36 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hrm.qa.testcases.ApproveTabTest@2371aaca]" started-at="2022-11-20T12:25:36 IST" name="setUp" finished-at="2022-11-20T12:25:55 IST" duration-ms="18484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="confirmRejectionTest()[pri:5, instance:com.hrm.qa.testcases.ApproveTabTest@2371aaca]" started-at="2022-11-20T12:25:55 IST" name="confirmRejectionTest" finished-at="2022-11-20T12:25:56 IST" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmRejectionTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.ApproveTabTest@2371aaca]" started-at="2022-11-20T12:25:56 IST" name="tearDown" finished-at="2022-11-20T12:25:56 IST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.qa.testcases.ApproveTabTest -->
+    </test> <!-- Free CRM App Test Cases -->
+  </suite> <!-- ActiTIME Test Automation Test Suite -->
+</testng-results>

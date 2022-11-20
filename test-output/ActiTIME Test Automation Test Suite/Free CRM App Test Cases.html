@@ -1,0 +1,199 @@
+<html>
+<head>
+<title>TestNG:  Free CRM App Test Cases</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Free CRM App Test Cases</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>24/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Nov 20 12:20:45 IST 2022</td>
+</tr>
+<tr><td>Total time:</td><td>682 seconds (682548 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.hrm.qa.testcases.LoginPageTest.actiTimeLogoTest()'><b>actiTimeLogoTest</b><br>Test class: com.hrm.qa.testcases.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.hrm.qa.testcases.LoginPageTest@54a67a45</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.ActiPlanPageText.validateActiTimeLogoTest()'><b>validateActiTimeLogoTest</b><br>Test class: com.hrm.qa.testcases.ActiPlanPageText</td>
+<td></td>
+<td>0</td>
+<td>com.hrm.qa.testcases.ActiPlanPageText@5b529706</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.ReviewLeavePageTest.validatePgTitleTest()'><b>validatePgTitleTest</b><br>Test class: com.hrm.qa.testcases.ReviewLeavePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.hrm.qa.testcases.ReviewLeavePageTest@7b5a12ae</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.HomePageTest.verifyLockTimeLinkTest()'><b>verifyLockTimeLinkTest</b><br>Test class: com.hrm.qa.testcases.HomePageTest</td>
+<td></td>
+<td>5</td>
+<td>com.hrm.qa.testcases.HomePageTest@736d6a5c</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.EmployeePageTest.clickEmployeeTest()'><b>clickEmployeeTest</b><br>Test class: com.hrm.qa.testcases.EmployeePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.hrm.qa.testcases.EmployeePageTest@63fdab07</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.ActiPlanPageText.verifyEmployeeListLinkTest()'><b>verifyEmployeeListLinkTest</b><br>Test class: com.hrm.qa.testcases.ActiPlanPageText</td>
+<td></td>
+<td>2</td>
+<td>com.hrm.qa.testcases.ActiPlanPageText@5b529706</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.ReportPageTest.validatePgTitleTest()'><b>validatePgTitleTest</b><br>Test class: com.hrm.qa.testcases.ReportPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.hrm.qa.testcases.ReportPageTest@5553d0f5</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.LoginPageTest.loginTest()'><b>loginTest</b><br>Test class: com.hrm.qa.testcases.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.hrm.qa.testcases.LoginPageTest@54a67a45</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.ReportPageTest.dwnldPDFTest()'><b>dwnldPDFTest</b><br>Test class: com.hrm.qa.testcases.ReportPageTest</td>
+<td></td>
+<td>5</td>
+<td>com.hrm.qa.testcases.ReportPageTest@5553d0f5</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.HomePageTest.verifyviewTrackLinkTest()'><b>verifyviewTrackLinkTest</b><br>Test class: com.hrm.qa.testcases.HomePageTest</td>
+<td></td>
+<td>8</td>
+<td>com.hrm.qa.testcases.HomePageTest@736d6a5c</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.HomePageTest.homePageLogoTest()'><b>homePageLogoTest</b><br>Test class: com.hrm.qa.testcases.HomePageTest</td>
+<td></td>
+<td>8</td>
+<td>com.hrm.qa.testcases.HomePageTest@736d6a5c</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.ApproveTabTest.confirmRejectionTest()'><b>confirmRejectionTest</b><br>Test class: com.hrm.qa.testcases.ApproveTabTest</td>
+<td></td>
+<td>0</td>
+<td>com.hrm.qa.testcases.ApproveTabTest@2371aaca</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.ActiPlanPageText.validatePgTitleTest()'><b>validatePgTitleTest</b><br>Test class: com.hrm.qa.testcases.ActiPlanPageText</td>
+<td></td>
+<td>0</td>
+<td>com.hrm.qa.testcases.ActiPlanPageText@5b529706</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.ActiPlanPageText.verifyReportLinkTest()'><b>verifyReportLinkTest</b><br>Test class: com.hrm.qa.testcases.ActiPlanPageText</td>
+<td></td>
+<td>6</td>
+<td>com.hrm.qa.testcases.ActiPlanPageText@5b529706</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.ActiPlanPageText.verifyReviewLeaveLinkTest()'><b>verifyReviewLeaveLinkTest</b><br>Test class: com.hrm.qa.testcases.ActiPlanPageText</td>
+<td></td>
+<td>0</td>
+<td>com.hrm.qa.testcases.ActiPlanPageText@5b529706</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.ReportPageTest.dwnldCSVTest()'><b>dwnldCSVTest</b><br>Test class: com.hrm.qa.testcases.ReportPageTest</td>
+<td></td>
+<td>5</td>
+<td>com.hrm.qa.testcases.ReportPageTest@5553d0f5</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.HomePageTest.verifyapproveLinkTest()'><b>verifyapproveLinkTest</b><br>Test class: com.hrm.qa.testcases.HomePageTest</td>
+<td></td>
+<td>6</td>
+<td>com.hrm.qa.testcases.HomePageTest@736d6a5c</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.ApproveTabTest.selectRejectedTest()'><b>selectRejectedTest</b><br>Test class: com.hrm.qa.testcases.ApproveTabTest</td>
+<td></td>
+<td>0</td>
+<td>com.hrm.qa.testcases.ApproveTabTest@2371aaca</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.ApproveTabTest.selectApprovedTest()'><b>selectApprovedTest</b><br>Test class: com.hrm.qa.testcases.ApproveTabTest</td>
+<td></td>
+<td>0</td>
+<td>com.hrm.qa.testcases.ApproveTabTest@2371aaca</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.LoginPageTest.loginPageTitleTest()'><b>loginPageTitleTest</b><br>Test class: com.hrm.qa.testcases.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.hrm.qa.testcases.LoginPageTest@54a67a45</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.EmployeePageTest.verifyPgTitleTest()'><b>verifyPgTitleTest</b><br>Test class: com.hrm.qa.testcases.EmployeePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.hrm.qa.testcases.EmployeePageTest@63fdab07</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.ApproveTabTest.verifyPgTitleTest()'><b>verifyPgTitleTest</b><br>Test class: com.hrm.qa.testcases.ApproveTabTest</td>
+<td></td>
+<td>0</td>
+<td>com.hrm.qa.testcases.ApproveTabTest@2371aaca</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.ApproveTabTest.confirmApprovalTest()'><b>confirmApprovalTest</b><br>Test class: com.hrm.qa.testcases.ApproveTabTest</td>
+<td></td>
+<td>0</td>
+<td>com.hrm.qa.testcases.ApproveTabTest@2371aaca</td></tr>
+<tr>
+<td title='com.hrm.qa.testcases.HomePageTest.verifyactiPlanLinkTest()'><b>verifyactiPlanLinkTest</b><br>Test class: com.hrm.qa.testcases.HomePageTest</td>
+<td></td>
+<td>27</td>
+<td>com.hrm.qa.testcases.HomePageTest@736d6a5c</td></tr>
+</table><p>
+</body>
+</html>
